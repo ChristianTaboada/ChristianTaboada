@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christian Taboada</h1>
 <h3 align="center">I'm a Full-Stack developer who likes to work with JavaScript/Typescript, React among others. Redux, Node, SQL,</h3>
 
-- 🌱 I’m currently learning **course Big Data**
-                            **Studying Systems Engineering**
+- 🌱 I’m currently learning:
+-  **course Big Data**
+-  **Studying Systems Engineering**
 - 📫 How to reach me **taboada.christian@gmail.com**
 
 - ⚡ Fun fact **I ❤️ 🐶 and Gaming(PC, Xbox, Switch)**
