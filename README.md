@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **taboada.christian@gmail.com**
 
-- ⚡ Fun fact **I ❤️ 🐶 and Gaming(PC, Xbox, Switch)**
+- ⚡ Fun fact: **I ❤️ 🐶 and Gaming(PC, Xbox, Switch)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
