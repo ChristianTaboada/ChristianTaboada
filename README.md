@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, I'm Christian Taboada</h1>
-<h3 align="center">I'm a Full-Stack developer who likes to work with JavaScript/Typescript, React among others. Redux, Node, SQL,</h3>
+<h3 align="center">Soy un desarrollador web full stack junior apasionado por la tecnología y buscando mi primer empleo en la industria. Mi experiencia se centra en el desarrollo de aplicaciones web utilizando tecnologías modernas y en constante evolución. He participado en diversos proyectos, desde la creación de sitios web interactivos hasta la implementación de funcionalidades complejas en aplicaciones de comercio electrónico. Mi enfoque se basa en el desarrollo limpio y eficiente del código, la solución de problemas creativa y el trabajo en equipo colaborativo. Soy una persona autodidacta y siempre estoy buscando oportunidades para aprender y mejorar mis habilidades técnicas.
+
+Habilidades destacadas:
+
+Amplia experiencia en el desarrollo web full stack
+Conocimientos en tecnologías modernas, como JavaScript, HTML5, CSS3
+Experiencia en el uso de frameworks y bibliotecas, como React, Angular y Express
+Familiaridad con bases de datos y consultas SQL
+Habilidades en la solución de problemas y el análisis de código
+Excelente capacidad de trabajo en equipo y comunicación
+Como desarrollador web full stack junior, estoy emocionado por seguir desarrollándome y contribuyendo en proyectos desafiantes. Estoy comprometido con la mejora constante de mis habilidades y la adopción de las mejores prácticas de desarrollo. Mi perfil de GitHub es una representación de mi dedicación y pasión por la programación, y estoy ansioso por colaborar con otros profesionales en el campo. Si estás buscando un desarrollador web junior con un enfoque proactivo y una mentalidad orientada a la solución, estoy disponible para conectarme y discutir posibles oportunidades de colaboración.
+
+
+
+
+
+Regenerate response
+</h3>
 
 - 🔭 I’m currently working on **E-Commerce**
 
