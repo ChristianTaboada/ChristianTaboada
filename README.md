@@ -24,9 +24,9 @@ Regenerate response
 
 - 🔭 Actualmente estoy trabajando en **E-Commerce**
 
-- 🌱 I’m currently learning **course of Big Data, Studying Systems Engineering**
+- 🌱 Actualmente estoy cursando **course of Big Data, Studying Systems Engineering**
 
-- 📫 How to reach me **taboada.christian@gmail.com**
+- 📫 Contactame en **taboada.christian@gmail.com**
 
 - ⚡ Fun fact **I ❤️ 🐶 and Gaming(PC, Xbox, Switch)**
 
