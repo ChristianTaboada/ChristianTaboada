@@ -22,7 +22,7 @@ Como desarrollador web full stack junior, estoy emocionado por seguir desarroll�
 Regenerate response
 </h3>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 Actualmente estoy trabajando en **E-Commerce**
 
 - 🌱 I’m currently learning **course of Big Data, Studying Systems Engineering**
 
