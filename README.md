@@ -4,7 +4,6 @@
 <ul
 Habilidades destacadas:
 
-<li>Experiencia en desarrollo web full stack</li>
 <li>Conocimientos en tecnologías modernas, como JavaScript, HTML5, CSS3</li>
 <li>Experiencia en el uso de frameworks y bibliotecas, como React, Angular y Express</li>
 <li>Competencia en bases de datos relacionales (SQL) y no relacionales (MongoDB)</li>
