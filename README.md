@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Christian Taboada</h1>
-<h3 align="center">Soy un desarrollador web full stack junior apasionado por la tecnología y buscando mi primer empleo en la industria. Mi experiencia se centra en el desarrollo de aplicaciones web utilizando tecnologías modernas y en constante evolución. He participado en diversos proyectos, desde la creación de sitios web interactivos hasta la implementación de funcionalidades complejas en aplicaciones de comercio electrónico. Mi enfoque se basa en el desarrollo limpio y eficiente del código, la solución de problemas creativa y el trabajo en equipo colaborativo. Soy una persona autodidacta y siempre estoy buscando oportunidades para aprender y mejorar mis habilidades técnicas.
+<h1 align="center">Hola 👋, Soy Christian Taboada</h1>
+<h3 align="center">Soy un desarrollador web full stack junior apasionado por la tecnología. Mi experiencia se centra en el desarrollo de aplicaciones web utilizando tecnologías modernas y en constante evolución. He participado en diversos proyectos, desde la creación de sitios web interactivos hasta la implementación de funcionalidades complejas en aplicaciones de comercio electrónico. Me enfoco en el desarrollo limpio y eficiente del código, la solución creativa de problemas y el trabajo colaborativo en equipo. Soy autodidacta y siempre estoy buscando oportunidades para aprender y mejorar mis habilidades técnicas.
   </h3>
 <ul
 Habilidades destacadas:
 
-<li>Amplia experiencia en el desarrollo web full stack</li>
+<li>Experiencia en desarrollo web full stack</li>
 <li>Conocimientos en tecnologías modernas, como JavaScript, HTML5, CSS3</li>
 <li>Experiencia en el uso de frameworks y bibliotecas, como React, Angular y Express</li>
-<li>Familiaridad con bases de datos y consultas SQL</li>
+<li>Competencia en bases de datos relacionales (SQL) y no relacionales (MongoDB)</li>
 <li>Habilidades en la solución de problemas y el análisis de código</li>
 <li>Excelente capacidad de trabajo en equipo y comunicación</li>
+<li>Actualmente aprendiendo Java y C++ para fortalecer mis bases de programación</li>
 </ul>
 
 <h3>
@@ -22,13 +23,9 @@ Como desarrollador web full stack junior, estoy emocionado por seguir desarroll�
 Regenerate response
 </h3>
 
-- 🔭 Actualmente estoy trabajando en **E-Commerce**
-
-- 🌱 Actualmente estoy cursando **course of Big Data, Studying Systems Engineering**
+- 🌱 Actualmente estoy cursando **Ingenieria en Sistemas de Informacion**
 
 - 📫 Contactame en **taboada.christian@gmail.com**
-
-- ⚡ Fun fact **I ❤️ 🐶 and Gaming(PC, Xbox, Switch)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
