@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, Soy Christian Taboada</h1>
 <h3 align="center">Soy un desarrollador web full stack junior apasionado por la tecnología. Mi experiencia se centra en el desarrollo de aplicaciones web utilizando tecnologías modernas y en constante evolución. He participado en diversos proyectos, desde la creación de sitios web interactivos hasta la implementación de funcionalidades complejas en aplicaciones de comercio electrónico. Me enfoco en el desarrollo limpio y eficiente del código, la solución creativa de problemas y el trabajo colaborativo en equipo. Soy autodidacta y siempre estoy buscando oportunidades para aprender y mejorar mis habilidades técnicas.
   </h3>
-<ul
 
+<ul>
 <li>Experiencia en desarrollo web full stack</li>
 <li>Conocimientos en tecnologías modernas, como JavaScript, HTML5, CSS3</li>
 <li>Experiencia en el uso de frameworks y bibliotecas, como React, Angular y Express</li>
